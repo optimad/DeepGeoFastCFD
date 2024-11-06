@@ -7,4 +7,6 @@ By integrating Deep Convolutional Network and Geometric Deep Learning, our model
 ## Acknoledgements
 
 This work has been conducted within the framework of the [NEXTAIR](https://www.nextair-project.eu/) project, funded by the European Union under the GA number 101056732.
-![EU Logo](figures/EU_logo.jpg)
+
+<img src="figures/EU_logo.jpg" alt="EU Logo" title="EU Logo" width="25%">
+
